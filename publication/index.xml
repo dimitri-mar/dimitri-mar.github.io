@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Dimitri Marinelli</title>
+    <link>http://dimitri-mar.github.io/publication/index.xml</link>
+    <description>Recent content in Publications on Dimitri Marinelli</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Dimitri Marinelli</copyright>
+    <lastBuildDate>Wed, 11 Jan 2017 15:06:08 +0100</lastBuildDate>
+    <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The screen representation of spin networks: 2D recurrence, eigenvalue equation for 6j symbols, geometric interpretation and hamiltonian dynamics</title>
+      <link>http://dimitri-mar.github.io/publication/test/</link>
+      <pubDate>Wed, 11 Jan 2017 15:06:08 +0100</pubDate>
+      
+      <guid>http://dimitri-mar.github.io/publication/test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Person Re-Identification System For Mobile Devices</title>
+      <link>http://dimitri-mar.github.io/publication/person-re-identification/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://dimitri-mar.github.io/publication/person-re-identification/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The screen representation of spin networks: 2D recurrence, eigenvalue equation for 6j symbols, geometric interpretation and hamiltonian dynamics</title>
+      <link>http://dimitri-mar.github.io/publication/screendm/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://dimitri-mar.github.io/publication/screendm/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

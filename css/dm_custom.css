@@ -1,0 +1,11 @@
+ul.ul-interests li {
+    font-size: 0.7rem;
+}
+.home-section{
+    /*background-image: url('http://placekitten.com/1500/1000');*/
+    background-image: url('../img/RandomGraphCut0.3.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+
