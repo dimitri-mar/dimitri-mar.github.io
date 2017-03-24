@@ -7,6 +7,11 @@
   </url>
   
   <url>
+    <loc>http://dimitri-mar.github.io/home/publications/</loc>
+    <lastmod>2017-03-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://dimitri-mar.github.io/home/contact/</loc>
     <lastmod>2016-04-20T00:00:00+00:00</lastmod>
   </url>
@@ -17,13 +22,13 @@
   </url>
   
   <url>
-    <loc>http://dimitri-mar.github.io/publication/test/</loc>
-    <lastmod>2017-01-11T15:06:08+01:00</lastmod>
+    <loc>http://dimitri-mar.github.io/talk/example-talk/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://dimitri-mar.github.io/talk/example-talk/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <loc>http://dimitri-mar.github.io/publication/QuantCompAsp/</loc>
+    <lastmod>2016-07-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -52,8 +57,13 @@
   </url>
   
   <url>
-    <loc>http://dimitri-mar.github.io/publication/person-re-identification/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <loc>http://dimitri-mar.github.io/publication/PracticalRegge/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dimitri-mar.github.io/publication/PhDsum/</loc>
+    <lastmod>2014-03-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -62,8 +72,23 @@
   </url>
   
   <url>
-    <loc>http://dimitri-mar.github.io/publication/screendm/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <loc>http://dimitri-mar.github.io/publication/SymAlgebra/</loc>
+    <lastmod>2014-03-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dimitri-mar.github.io/publication/SymCoupling/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dimitri-mar.github.io/publication/HamiltVolume/</loc>
+    <lastmod>2013-04-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dimitri-mar.github.io/publication/screenrep/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -122,7 +147,7 @@
   
   <url>
     <loc>http://dimitri-mar.github.io/publication/</loc>
-    <lastmod>2017-01-11T15:06:08+01:00</lastmod>
+    <lastmod>2016-07-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
