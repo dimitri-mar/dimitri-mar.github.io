@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Dimitri Marinelli</title>
-    <link>http://dimitri-mar.github.io/publication/index.xml</link>
+    <link>http://dimitri-mar.github.io/publication/</link>
     <description>Recent content in Publications on Dimitri Marinelli</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Dimitri Marinelli</copyright>
     <lastBuildDate>Mon, 04 Jul 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/publication/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Spin-Coupling Diagrams and Incidence Geometry: A Note on Combinatorial and Quantum-Computational Aspects</title>
-      <link>http://dimitri-mar.github.io/publication/QuantCompAsp/</link>
+      <link>http://dimitri-mar.github.io/publication/quantcompasp/</link>
       <pubDate>Mon, 04 Jul 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://dimitri-mar.github.io/publication/QuantCompAsp/</guid>
+      <guid>http://dimitri-mar.github.io/publication/quantcompasp/</guid>
       <description>&lt;p&gt;Bibtex:&lt;/p&gt;
 
 &lt;pre&gt;&lt;code class=&#34;language-latex&#34;&gt;@InBook{Arruda2016,
@@ -41,10 +41,10 @@
     
     <item>
       <title>A Practical Look at Regge Calculus</title>
-      <link>http://dimitri-mar.github.io/publication/PracticalRegge/</link>
+      <link>http://dimitri-mar.github.io/publication/practicalregge/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://dimitri-mar.github.io/publication/PracticalRegge/</guid>
+      <guid>http://dimitri-mar.github.io/publication/practicalregge/</guid>
       <description>&lt;p&gt;Bibtex:&lt;/p&gt;
 
 &lt;pre&gt;&lt;code class=&#34;language-latex&#34;&gt;@InCollection{marinelli2016practical,
@@ -69,10 +69,10 @@
     
     <item>
       <title>Single and Collective Dynamics of Discretized Geometries</title>
-      <link>http://dimitri-mar.github.io/publication/PhDsum/</link>
+      <link>http://dimitri-mar.github.io/publication/phdsum/</link>
       <pubDate>Wed, 26 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://dimitri-mar.github.io/publication/PhDsum/</guid>
+      <guid>http://dimitri-mar.github.io/publication/phdsum/</guid>
       <description>&lt;p&gt;Bibtex:&lt;/p&gt;
 
 &lt;pre&gt;&lt;code class=&#34;language-latex&#34;&gt;@Article{marinelli2014single,
@@ -92,10 +92,10 @@
     
     <item>
       <title>Symmetric coupling of angular momenta, quadratic algebras and discrete polynomials</title>
-      <link>http://dimitri-mar.github.io/publication/SymAlgebra/</link>
+      <link>http://dimitri-mar.github.io/publication/symalgebra/</link>
       <pubDate>Wed, 05 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://dimitri-mar.github.io/publication/SymAlgebra/</guid>
+      <guid>http://dimitri-mar.github.io/publication/symalgebra/</guid>
       <description>&lt;p&gt;Bibtex:&lt;/p&gt;
 
 &lt;pre&gt;&lt;code class=&#34;language-latex&#34;&gt;@Article{Aquilanti:2014gka,
@@ -119,10 +119,10 @@
     
     <item>
       <title>Symmetric angular momentum coupling, the quantum volume operator and the 7-spin network: A computational perspective</title>
-      <link>http://dimitri-mar.github.io/publication/SymCoupling/</link>
+      <link>http://dimitri-mar.github.io/publication/symcoupling/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://dimitri-mar.github.io/publication/SymCoupling/</guid>
+      <guid>http://dimitri-mar.github.io/publication/symcoupling/</guid>
       <description>&lt;p&gt;Bibtex:&lt;/p&gt;
 
 &lt;pre&gt;&lt;code class=&#34;language-latex&#34;&gt;@InCollection{Marinelli:2014jma,
@@ -148,10 +148,10 @@
     
     <item>
       <title>Hamiltonian dynamics of a quantum of space: hidden symmetries and spectrum of the volume operator, and discrete orthogonal polynomials</title>
-      <link>http://dimitri-mar.github.io/publication/HamiltVolume/</link>
+      <link>http://dimitri-mar.github.io/publication/hamiltvolume/</link>
       <pubDate>Mon, 15 Apr 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://dimitri-mar.github.io/publication/HamiltVolume/</guid>
+      <guid>http://dimitri-mar.github.io/publication/hamiltvolume/</guid>
       <description>&lt;p&gt;Bibtex:&lt;/p&gt;
 
 &lt;pre&gt;&lt;code class=&#34;language-latex&#34;&gt;@Article{Aquilanti:2013qx,

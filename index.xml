@@ -2,31 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dimitri Marinelli on Dimitri Marinelli</title>
-    <link>http://dimitri-mar.github.io/index.xml</link>
+    <link>http://dimitri-mar.github.io/</link>
     <description>Recent content in Dimitri Marinelli on Dimitri Marinelli</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Dimitri Marinelli</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Gemetry of Deep Learning</title>
-      <link>http://dimitri-mar.github.io/project/deep-learning/</link>
-      <pubDate>Thu, 09 Feb 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://dimitri-mar.github.io/project/deep-learning/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-</description>
-    </item>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Example Talk</title>
@@ -40,10 +22,10 @@
     
     <item>
       <title>Spin-Coupling Diagrams and Incidence Geometry: A Note on Combinatorial and Quantum-Computational Aspects</title>
-      <link>http://dimitri-mar.github.io/publication/QuantCompAsp/</link>
+      <link>http://dimitri-mar.github.io/publication/quantcompasp/</link>
       <pubDate>Mon, 04 Jul 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://dimitri-mar.github.io/publication/QuantCompAsp/</guid>
+      <guid>http://dimitri-mar.github.io/publication/quantcompasp/</guid>
       <description>&lt;p&gt;Bibtex:&lt;/p&gt;
 
 &lt;pre&gt;&lt;code class=&#34;language-latex&#34;&gt;@InBook{Arruda2016,
@@ -664,10 +646,10 @@ Here&#39;s some important information...
     
     <item>
       <title>A Practical Look at Regge Calculus</title>
-      <link>http://dimitri-mar.github.io/publication/PracticalRegge/</link>
+      <link>http://dimitri-mar.github.io/publication/practicalregge/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://dimitri-mar.github.io/publication/PracticalRegge/</guid>
+      <guid>http://dimitri-mar.github.io/publication/practicalregge/</guid>
       <description>&lt;p&gt;Bibtex:&lt;/p&gt;
 
 &lt;pre&gt;&lt;code class=&#34;language-latex&#34;&gt;@InCollection{marinelli2016practical,
@@ -692,10 +674,10 @@ Here&#39;s some important information...
     
     <item>
       <title>Single and Collective Dynamics of Discretized Geometries</title>
-      <link>http://dimitri-mar.github.io/publication/PhDsum/</link>
+      <link>http://dimitri-mar.github.io/publication/phdsum/</link>
       <pubDate>Wed, 26 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://dimitri-mar.github.io/publication/PhDsum/</guid>
+      <guid>http://dimitri-mar.github.io/publication/phdsum/</guid>
       <description>&lt;p&gt;Bibtex:&lt;/p&gt;
 
 &lt;pre&gt;&lt;code class=&#34;language-latex&#34;&gt;@Article{marinelli2014single,
@@ -759,10 +741,10 @@ With Jekyll, something that looked like&lt;/p&gt;
     
     <item>
       <title>Symmetric coupling of angular momenta, quadratic algebras and discrete polynomials</title>
-      <link>http://dimitri-mar.github.io/publication/SymAlgebra/</link>
+      <link>http://dimitri-mar.github.io/publication/symalgebra/</link>
       <pubDate>Wed, 05 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://dimitri-mar.github.io/publication/SymAlgebra/</guid>
+      <guid>http://dimitri-mar.github.io/publication/symalgebra/</guid>
       <description>&lt;p&gt;Bibtex:&lt;/p&gt;
 
 &lt;pre&gt;&lt;code class=&#34;language-latex&#34;&gt;@Article{Aquilanti:2014gka,
@@ -780,6 +762,93 @@ With Jekyll, something that looked like&lt;/p&gt;
   Primaryclass             = {quant-ph},
 }
 
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Symmetric angular momentum coupling, the quantum volume operator and the 7-spin network: A computational perspective</title>
+      <link>http://dimitri-mar.github.io/publication/symcoupling/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://dimitri-mar.github.io/publication/symcoupling/</guid>
+      <description>&lt;p&gt;Bibtex:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-latex&#34;&gt;@InCollection{Marinelli:2014jma,
+  Title                    = {{Symmetric angular momentum coupling, the quantum volume operator and the 7-spin network: a computational perspective}},
+  Author                   = {Marinelli, Dimitri and Marzuoli, Annalisa and Aquilanti, Vincenzo and Anderson, Roger W. and Bitencourt, Ana Carla P. and Ragni, Mirco},
+  Booktitle                = {Computational Science and Its Applications - ICCSA 2014},
+  Publisher                = {Springer Berlin Heidelberg},
+  Year                     = {2014},
+  Pages                    = {508-521},
+  Series                   = {Lecture Notes in Computer Science},
+  Volume                   = {8579},
+
+  Archiveprefix            = {arXiv},
+  Doi                      = {10.1007/978-3-319-09144-0_35},
+  Eprint                   = {1410.1073},
+  Journal                  = {Lecture Notes in Computer Science},
+  Primaryclass             = {quant-ph},
+}
+
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hamiltonian dynamics of a quantum of space: hidden symmetries and spectrum of the volume operator, and discrete orthogonal polynomials</title>
+      <link>http://dimitri-mar.github.io/publication/hamiltvolume/</link>
+      <pubDate>Mon, 15 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://dimitri-mar.github.io/publication/hamiltvolume/</guid>
+      <description>&lt;p&gt;Bibtex:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-latex&#34;&gt;@Article{Aquilanti:2013qx,
+  Title                    = {{Hamiltonian dynamics of a quantum of space: hidden symmetries and spectrum of the volume operator, and discrete orthogonal polynomials}},
+  Author                   = {Aquilanti, Vincenzo and Marinelli, Dimitri and Marzuoli, Annalisa},
+  Journal                  = {Journal of Physics A: Mathematical and Theoretical},
+  Year                     = {2013},
+  Pages                    = {175303},
+  Volume                   = {46},
+
+  Archiveprefix            = {arXiv},
+  Doi                      = {10.1088/1751-8113/46/17/175303},
+  Eprint                   = {1301.1949},
+  Primaryclass             = {quant-ph},
+
+}
+
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The screen representation of spin networks: 2D recurrence, eigenvalue equation for 6j symbols, geometric interpretation and hamiltonian dynamics</title>
+      <link>http://dimitri-mar.github.io/publication/screenrep/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://dimitri-mar.github.io/publication/screenrep/</guid>
+      <description>&lt;p&gt;Bibtex:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-latex&#34;&gt;@InCollection{2014arXiv1404.4555A,
+  Title                    = {{The Screen representation of spin networks: 2D recurrence, eigenvalue equation for 6j symbols, geometric interpretation and Hamiltonian dynamics}},
+  Author                   = {{Anderson}, R.~W. and {Aquilanti}, V. and {Bitencourt}, A.~C.~P. and {Marinelli}, D. and {Ragni}, M.},
+  Booktitle                = {Computational Science and Its Applications - ICCSA 2013},
+  Publisher                = {Springer Berlin Heidelberg},
+  Year                     = {2014},
+  Editor                   = {Murgante, Beniamino and Misra, Sanjay and Carlini, Maurizio and Torre, CarmeloM. and Nguyen, Hong-Quang and Taniar, David and Apduhan, BernadyO. and Gervasi, Osvaldo},
+  Month                    = apr,
+  Pages                    = {46-59},
+  Series                   = {Lecture Notes in Computer Science},
+  Volume                   = {7972},
+
+  Archiveprefix            = {arXiv},
+  Doi                      = {10.1007/978-3-642-39643-4_4},
+  Eprint                   = {1404.4555},
+  ISBN                     = {978-3-642-39642-7},
+  Journal                  = {Lecture Notes in Computer Science},
+  Primaryclass             = {quant-ph},
+}
 &lt;/code&gt;&lt;/pre&gt;
 </description>
     </item>
