@@ -11,6 +11,50 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Thermodynamics of Quantum Phase Transitions of a Dirac oscillator in a homogenous magnetic field</title>
+      <link>http://dimitri-mar.github.io/publication/qpt/</link>
+      <pubDate>Mon, 10 Jul 2017 01:55:48 +0300</pubDate>
+      
+      <guid>http://dimitri-mar.github.io/publication/qpt/</guid>
+      <description>&lt;p&gt;Bibtex:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-latex&#34;&gt;@article{Frassino:2017tfu,
+      author         = &amp;quot;Frassino, Antonia M. and Marinelli, Dimitri and Panella,
+                        Orlando and Roy, Pinaki&amp;quot;,
+      title          = &amp;quot;{Thermodynamics of Quantum Phase Transitions of a Dirac
+                        oscillator in a homogenous magnetic field}&amp;quot;,
+      year           = &amp;quot;2017&amp;quot;,
+      eprint         = &amp;quot;1707.06984&amp;quot;,
+      archivePrefix  = &amp;quot;arXiv&amp;quot;,
+      primaryClass   = &amp;quot;cond-mat.stat-mech&amp;quot;,
+}
+
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>networks</title>
+      <link>http://dimitri-mar.github.io/project/networks/</link>
+      <pubDate>Mon, 05 Jun 2017 02:56:14 +0300</pubDate>
+      
+      <guid>http://dimitri-mar.github.io/project/networks/</guid>
+      <description>&lt;p&gt;Data, networks, machine learning and economy.&lt;/p&gt;
+
+&lt;p&gt;data science and economy&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>From Special Functions to Quantum Gravity</title>
+      <link>http://dimitri-mar.github.io/project/special-functions/</link>
+      <pubDate>Mon, 05 Jun 2017 02:55:29 +0300</pubDate>
+      
+      <guid>http://dimitri-mar.github.io/project/special-functions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Example Talk</title>
       <link>http://dimitri-mar.github.io/talk/example-talk/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
@@ -791,64 +835,6 @@ With Jekyll, something that looked like&lt;/p&gt;
   Primaryclass             = {quant-ph},
 }
 
-&lt;/code&gt;&lt;/pre&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Hamiltonian dynamics of a quantum of space: hidden symmetries and spectrum of the volume operator, and discrete orthogonal polynomials</title>
-      <link>http://dimitri-mar.github.io/publication/hamiltvolume/</link>
-      <pubDate>Mon, 15 Apr 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://dimitri-mar.github.io/publication/hamiltvolume/</guid>
-      <description>&lt;p&gt;Bibtex:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-latex&#34;&gt;@Article{Aquilanti:2013qx,
-  Title                    = {{Hamiltonian dynamics of a quantum of space: hidden symmetries and spectrum of the volume operator, and discrete orthogonal polynomials}},
-  Author                   = {Aquilanti, Vincenzo and Marinelli, Dimitri and Marzuoli, Annalisa},
-  Journal                  = {Journal of Physics A: Mathematical and Theoretical},
-  Year                     = {2013},
-  Pages                    = {175303},
-  Volume                   = {46},
-
-  Archiveprefix            = {arXiv},
-  Doi                      = {10.1088/1751-8113/46/17/175303},
-  Eprint                   = {1301.1949},
-  Primaryclass             = {quant-ph},
-
-}
-
-&lt;/code&gt;&lt;/pre&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>The screen representation of spin networks: 2D recurrence, eigenvalue equation for 6j symbols, geometric interpretation and hamiltonian dynamics</title>
-      <link>http://dimitri-mar.github.io/publication/screenrep/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://dimitri-mar.github.io/publication/screenrep/</guid>
-      <description>&lt;p&gt;Bibtex:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-latex&#34;&gt;@InCollection{2014arXiv1404.4555A,
-  Title                    = {{The Screen representation of spin networks: 2D recurrence, eigenvalue equation for 6j symbols, geometric interpretation and Hamiltonian dynamics}},
-  Author                   = {{Anderson}, R.~W. and {Aquilanti}, V. and {Bitencourt}, A.~C.~P. and {Marinelli}, D. and {Ragni}, M.},
-  Booktitle                = {Computational Science and Its Applications - ICCSA 2013},
-  Publisher                = {Springer Berlin Heidelberg},
-  Year                     = {2014},
-  Editor                   = {Murgante, Beniamino and Misra, Sanjay and Carlini, Maurizio and Torre, CarmeloM. and Nguyen, Hong-Quang and Taniar, David and Apduhan, BernadyO. and Gervasi, Osvaldo},
-  Month                    = apr,
-  Pages                    = {46-59},
-  Series                   = {Lecture Notes in Computer Science},
-  Volume                   = {7972},
-
-  Archiveprefix            = {arXiv},
-  Doi                      = {10.1007/978-3-642-39643-4_4},
-  Eprint                   = {1404.4555},
-  ISBN                     = {978-3-642-39642-7},
-  Journal                  = {Lecture Notes in Computer Science},
-  Primaryclass             = {quant-ph},
-}
 &lt;/code&gt;&lt;/pre&gt;
 </description>
     </item>

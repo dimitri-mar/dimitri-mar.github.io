@@ -7,8 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Dimitri Marinelli</copyright>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Jun 2017 02:56:14 +0300</lastBuildDate>
     <atom:link href="/project/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>networks</title>
+      <link>http://dimitri-mar.github.io/project/networks/</link>
+      <pubDate>Mon, 05 Jun 2017 02:56:14 +0300</pubDate>
+      
+      <guid>http://dimitri-mar.github.io/project/networks/</guid>
+      <description>&lt;p&gt;Data, networks, machine learning and economy.&lt;/p&gt;
+
+&lt;p&gt;data science and economy&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>From Special Functions to Quantum Gravity</title>
+      <link>http://dimitri-mar.github.io/project/special-functions/</link>
+      <pubDate>Mon, 05 Jun 2017 02:55:29 +0300</pubDate>
+      
+      <guid>http://dimitri-mar.github.io/project/special-functions/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>External Project</title>

@@ -7,8 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Dimitri Marinelli</copyright>
-    <lastBuildDate>Mon, 04 Jul 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jul 2017 01:55:48 +0300</lastBuildDate>
     <atom:link href="/publication/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Thermodynamics of Quantum Phase Transitions of a Dirac oscillator in a homogenous magnetic field</title>
+      <link>http://dimitri-mar.github.io/publication/qpt/</link>
+      <pubDate>Mon, 10 Jul 2017 01:55:48 +0300</pubDate>
+      
+      <guid>http://dimitri-mar.github.io/publication/qpt/</guid>
+      <description>&lt;p&gt;Bibtex:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-latex&#34;&gt;@article{Frassino:2017tfu,
+      author         = &amp;quot;Frassino, Antonia M. and Marinelli, Dimitri and Panella,
+                        Orlando and Roy, Pinaki&amp;quot;,
+      title          = &amp;quot;{Thermodynamics of Quantum Phase Transitions of a Dirac
+                        oscillator in a homogenous magnetic field}&amp;quot;,
+      year           = &amp;quot;2017&amp;quot;,
+      eprint         = &amp;quot;1707.06984&amp;quot;,
+      archivePrefix  = &amp;quot;arXiv&amp;quot;,
+      primaryClass   = &amp;quot;cond-mat.stat-mech&amp;quot;,
+}
+
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
     
     <item>
       <title>Spin-Coupling Diagrams and Incidence Geometry: A Note on Combinatorial and Quantum-Computational Aspects</title>
