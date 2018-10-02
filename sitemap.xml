@@ -2,7 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     
-    
     <url>
     
       <loc>http://dimitri-mar.github.io/publication/syntdatareg/</loc>
@@ -10,7 +9,6 @@
     </url>
     
   
-    
     
     <url>
     
@@ -20,7 +18,6 @@
     
   
     
-    
     <url>
     
       <loc>http://dimitri-mar.github.io/project/networks/</loc>
@@ -28,7 +25,6 @@
     </url>
     
   
-    
     
     <url>
     
@@ -38,15 +34,21 @@
     
   
     
-    
     <url>
     
       <loc>http://dimitri-mar.github.io/talk/example-talk/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
     
   
     
+    <url>
+    
+      <loc>http://dimitri-mar.github.io/talk/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
     
     <url>
     
@@ -56,7 +58,6 @@
     
   
     
-    
     <url>
     
       <loc>http://dimitri-mar.github.io/project/example-external-project/</loc>
@@ -64,7 +65,6 @@
     </url>
     
   
-    
     
     <url>
     
@@ -74,7 +74,6 @@
     
   
     
-    
     <url>
     
       <loc>http://dimitri-mar.github.io/post/widgets/</loc>
@@ -82,7 +81,6 @@
     </url>
     
   
-    
     
     <url>
     
@@ -92,7 +90,6 @@
     
   
     
-    
     <url>
     
       <loc>http://dimitri-mar.github.io/post/writing-markdown-latex/</loc>
@@ -100,7 +97,6 @@
     </url>
     
   
-    
     
     <url>
     
@@ -110,7 +106,6 @@
     
   
     
-    
     <url>
     
       <loc>http://dimitri-mar.github.io/publication/phdsum/</loc>
@@ -118,7 +113,6 @@
     </url>
     
   
-    
     
     <url>
     
@@ -128,7 +122,6 @@
     
   
     
-    
     <url>
     
       <loc>http://dimitri-mar.github.io/publication/symalgebra/</loc>
@@ -136,7 +129,6 @@
     </url>
     
   
-    
     
     <url>
     
@@ -146,7 +138,6 @@
     
   
     
-    
     <url>
     
       <loc>http://dimitri-mar.github.io/publication/hamiltvolume/</loc>
@@ -155,7 +146,6 @@
     
   
     
-    
     <url>
     
       <loc>http://dimitri-mar.github.io/publication/screenrep/</loc>
@@ -163,7 +153,6 @@
     </url>
     
   
-    
     
     <url>
     
@@ -174,7 +163,6 @@
     
   
     
-    
     <url>
     
       <loc>http://dimitri-mar.github.io/categories/</loc>
@@ -182,7 +170,6 @@
     </url>
     
   
-    
     
     <url>
     
@@ -193,7 +180,6 @@
     
   
     
-    
     <url>
     
       <loc>http://dimitri-mar.github.io/</loc>
@@ -202,7 +188,6 @@
     </url>
     
   
-    
     
     <url>
     
@@ -213,7 +198,6 @@
     
   
     
-    
     <url>
     
       <loc>http://dimitri-mar.github.io/tags/jekyll/</loc>
@@ -222,7 +206,6 @@
     </url>
     
   
-    
     
     <url>
     
@@ -233,7 +216,6 @@
     
   
     
-    
     <url>
     
       <loc>http://dimitri-mar.github.io/project/</loc>
@@ -243,6 +225,13 @@
     
   
     
+    <url>
+    
+      <loc>http://dimitri-mar.github.io/publication_types/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
     
     <url>
     
@@ -253,21 +242,10 @@
     
   
     
-    
     <url>
     
       <loc>http://dimitri-mar.github.io/tags/</loc>
       <lastmod>2016-04-20T12:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://dimitri-mar.github.io/talk/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
