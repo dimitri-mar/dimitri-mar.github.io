@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homes on Dimitri Marinelli</title>
+    <title>Homes on </title>
     <link>http://dimitri-mar.github.io/home/</link>
-    <description>Recent content in Homes on Dimitri Marinelli</description>
+    <description>Recent content in Homes on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Dimitri Marinelli</copyright>
@@ -18,7 +18,7 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>http://dimitri-mar.github.io/home/about/</guid>
-      <description></description>
+      <description>About me I am a researcher at FIRAMIS: I have been awarded of the Marie Skłodowska-Curie Postdoctoral Fellowship, part of the H2020 European Commission programme, to work at Firamis at the interface of data science, applied mathematics, and finance. Previously, I have been an associate researcher at the Romanian Institute for Science and Technology, where I worked on Deep Learning and Information geometry in the Machine Learning and Optimization Lab directed by Luigi Malagò, in the context of the DeepRiemann project “Riemannian Optimization Methods for Deep Learning”, funded by European structural funds.</description>
     </item>
     
     <item>
