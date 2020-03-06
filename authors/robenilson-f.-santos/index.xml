@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robenilson F. Santos | </title>
+    <link>http://dimitri-mar.github.io/authors/robenilson-f.-santos/</link>
+      <atom:link href="http://dimitri-mar.github.io/authors/robenilson-f.-santos/index.xml" rel="self" type="application/rss+xml" />
+    <description>Robenilson F. Santos</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Dimitri Marinelli</copyright><lastBuildDate>Mon, 04 Jul 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://dimitri-mar.github.io/images/icon_hua6a78cf4343681db94a23854cb413817_43047_512x512_fill_lanczos_center_2.png</url>
+      <title>Robenilson F. Santos</title>
+      <link>http://dimitri-mar.github.io/authors/robenilson-f.-santos/</link>
+    </image>
+    
+    <item>
+      <title>Spin-Coupling Diagrams and Incidence Geometry: A Note on Combinatorial and Quantum-Computational Aspects</title>
+      <link>http://dimitri-mar.github.io/publication/arruda-2016/</link>
+      <pubDate>Mon, 04 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>http://dimitri-mar.github.io/publication/arruda-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

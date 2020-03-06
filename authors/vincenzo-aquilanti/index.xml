@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vincenzo Aquilanti | </title>
+    <link>http://dimitri-mar.github.io/authors/vincenzo-aquilanti/</link>
+      <atom:link href="http://dimitri-mar.github.io/authors/vincenzo-aquilanti/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vincenzo Aquilanti</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Dimitri Marinelli</copyright><lastBuildDate>Mon, 04 Jul 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://dimitri-mar.github.io/images/icon_hua6a78cf4343681db94a23854cb413817_43047_512x512_fill_lanczos_center_2.png</url>
+      <title>Vincenzo Aquilanti</title>
+      <link>http://dimitri-mar.github.io/authors/vincenzo-aquilanti/</link>
+    </image>
+    
+    <item>
+      <title>Spin-Coupling Diagrams and Incidence Geometry: A Note on Combinatorial and Quantum-Computational Aspects</title>
+      <link>http://dimitri-mar.github.io/publication/arruda-2016/</link>
+      <pubDate>Mon, 04 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>http://dimitri-mar.github.io/publication/arruda-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Screen representation of spin networks: 2D recurrence, eigenvalue equation for 6j symbols, geometric interpretation and Hamiltonian dynamics</title>
+      <link>http://dimitri-mar.github.io/publication/2014-ar-xiv-1404-4555-a/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>http://dimitri-mar.github.io/publication/2014-ar-xiv-1404-4555-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Symmetric coupling of angular momenta, quadratic algebras and discrete polynomials</title>
+      <link>http://dimitri-mar.github.io/publication/aquilanti-2014-gka/</link>
+      <pubDate>Mon, 03 Mar 2014 00:00:00 +0000</pubDate>
+      <guid>http://dimitri-mar.github.io/publication/aquilanti-2014-gka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Symmetric angular momentum coupling, the quantum volume operator and the 7-spin network: a computational perspective</title>
+      <link>http://dimitri-mar.github.io/publication/marinelli-2014-jma/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://dimitri-mar.github.io/publication/marinelli-2014-jma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hamiltonian dynamics of a quantum of space: hidden symmetries and spectrum of the volume operator, and discrete orthogonal polynomials</title>
+      <link>http://dimitri-mar.github.io/publication/aquilanti-2013-qx/</link>
+      <pubDate>Mon, 15 Apr 2013 00:00:00 +0000</pubDate>
+      <guid>http://dimitri-mar.github.io/publication/aquilanti-2013-qx/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

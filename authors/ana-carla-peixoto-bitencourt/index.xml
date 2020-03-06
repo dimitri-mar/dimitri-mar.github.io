@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ana Carla Peixoto Bitencourt | </title>
+    <link>http://dimitri-mar.github.io/authors/ana-carla-peixoto-bitencourt/</link>
+      <atom:link href="http://dimitri-mar.github.io/authors/ana-carla-peixoto-bitencourt/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ana Carla Peixoto Bitencourt</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Dimitri Marinelli</copyright><lastBuildDate>Tue, 01 Apr 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://dimitri-mar.github.io/images/icon_hua6a78cf4343681db94a23854cb413817_43047_512x512_fill_lanczos_center_2.png</url>
+      <title>Ana Carla Peixoto Bitencourt</title>
+      <link>http://dimitri-mar.github.io/authors/ana-carla-peixoto-bitencourt/</link>
+    </image>
+    
+    <item>
+      <title>The Screen representation of spin networks: 2D recurrence, eigenvalue equation for 6j symbols, geometric interpretation and Hamiltonian dynamics</title>
+      <link>http://dimitri-mar.github.io/publication/2014-ar-xiv-1404-4555-a/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>http://dimitri-mar.github.io/publication/2014-ar-xiv-1404-4555-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

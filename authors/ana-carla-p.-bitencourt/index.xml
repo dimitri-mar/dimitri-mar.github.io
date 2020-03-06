@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ana Carla P. Bitencourt | </title>
+    <link>http://dimitri-mar.github.io/authors/ana-carla-p.-bitencourt/</link>
+      <atom:link href="http://dimitri-mar.github.io/authors/ana-carla-p.-bitencourt/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ana Carla P. Bitencourt</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Dimitri Marinelli</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://dimitri-mar.github.io/images/icon_hua6a78cf4343681db94a23854cb413817_43047_512x512_fill_lanczos_center_2.png</url>
+      <title>Ana Carla P. Bitencourt</title>
+      <link>http://dimitri-mar.github.io/authors/ana-carla-p.-bitencourt/</link>
+    </image>
+    
+    <item>
+      <title>Symmetric angular momentum coupling, the quantum volume operator and the 7-spin network: a computational perspective</title>
+      <link>http://dimitri-mar.github.io/publication/marinelli-2014-jma/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://dimitri-mar.github.io/publication/marinelli-2014-jma/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

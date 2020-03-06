@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Giorgio Immirzi | </title>
+    <link>http://dimitri-mar.github.io/authors/giorgio-immirzi/</link>
+      <atom:link href="http://dimitri-mar.github.io/authors/giorgio-immirzi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Giorgio Immirzi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Dimitri Marinelli</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://dimitri-mar.github.io/images/icon_hua6a78cf4343681db94a23854cb413817_43047_512x512_fill_lanczos_center_2.png</url>
+      <title>Giorgio Immirzi</title>
+      <link>http://dimitri-mar.github.io/authors/giorgio-immirzi/</link>
+    </image>
+    
+    <item>
+      <title>A Practical Look at Regge Calculus</title>
+      <link>http://dimitri-mar.github.io/publication/marinelli-2016-practical/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://dimitri-mar.github.io/publication/marinelli-2016-practical/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

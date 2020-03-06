@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Riccardo Volpi | </title>
+    <link>http://dimitri-mar.github.io/authors/riccardo-volpi/</link>
+      <atom:link href="http://dimitri-mar.github.io/authors/riccardo-volpi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Riccardo Volpi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Dimitri Marinelli</copyright><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://dimitri-mar.github.io/images/icon_hua6a78cf4343681db94a23854cb413817_43047_512x512_fill_lanczos_center_2.png</url>
+      <title>Riccardo Volpi</title>
+      <link>http://dimitri-mar.github.io/authors/riccardo-volpi/</link>
+    </image>
+    
+    <item>
+      <title>Parameters Estimation for the Cosmic Microwave Background with Bayesian Neural Networks</title>
+      <link>http://dimitri-mar.github.io/publication/hortua-2019-parameters/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>http://dimitri-mar.github.io/publication/hortua-2019-parameters/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

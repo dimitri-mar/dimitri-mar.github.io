@@ -1,105 +1,111 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on </title>
+    <title>Publications | </title>
     <link>http://dimitri-mar.github.io/publication/</link>
-    <description>Recent content in Publications on </description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018 Dimitri Marinelli</copyright>
-    <lastBuildDate>Thu, 10 Aug 2017 03:59:58 +0300</lastBuildDate>
-    
-	<atom:link href="http://dimitri-mar.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="http://dimitri-mar.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Dimitri Marinelli</copyright><lastBuildDate>Thu, 30 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://dimitri-mar.github.io/images/icon_hua6a78cf4343681db94a23854cb413817_43047_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications</title>
+      <link>http://dimitri-mar.github.io/publication/</link>
+    </image>
     
     <item>
-      <title>Synthetic Generation of Local Minima and Saddle Points for Neural Networks</title>
-      <link>http://dimitri-mar.github.io/publication/syntdatareg/</link>
-      <pubDate>Thu, 10 Aug 2017 03:59:58 +0300</pubDate>
-      
-      <guid>http://dimitri-mar.github.io/publication/syntdatareg/</guid>
-      <description>Bibtex:
-@InProceeding{marinelli2016practical, Title = {Synthetic Generation of Local Minima and Saddle Points for Neural Networks}, Author = {Malag\`o, Luigi and Marinelli, Dimitri}, Year = {2017}, }  </description>
+      <title>Understanding Machine Learning for Diversified Portfolio Construction by Explainable AI</title>
+      <link>http://dimitri-mar.github.io/publication/munichre-2020/</link>
+      <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://dimitri-mar.github.io/publication/munichre-2020/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Thermodynamics of Quantum Phase Transitions of a Dirac oscillator in a homogenous magnetic field</title>
-      <link>http://dimitri-mar.github.io/publication/qpt/</link>
-      <pubDate>Mon, 10 Jul 2017 01:55:48 +0300</pubDate>
-      
-      <guid>http://dimitri-mar.github.io/publication/qpt/</guid>
-      <description>Bibtex:
-@article{Frassino:2017tfu, author = &amp;quot;Frassino, Antonia M. and Marinelli, Dimitri and Panella, Orlando and Roy, Pinaki&amp;quot;, title = &amp;quot;{Thermodynamics of Quantum Phase Transitions of a Dirac oscillator in a homogenous magnetic field}&amp;quot;, year = &amp;quot;2017&amp;quot;, eprint = &amp;quot;1707.06984&amp;quot;, archivePrefix = &amp;quot;arXiv&amp;quot;, primaryClass = &amp;quot;cond-mat.stat-mech&amp;quot;, }  </description>
+      <title>Explainable AI in credit risk management</title>
+      <link>http://dimitri-mar.github.io/publication/bussmann-2019-explainable/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>http://dimitri-mar.github.io/publication/bussmann-2019-explainable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parameters Estimation for the Cosmic Microwave Background with Bayesian Neural Networks</title>
+      <link>http://dimitri-mar.github.io/publication/hortua-2019-parameters/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>http://dimitri-mar.github.io/publication/hortua-2019-parameters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thermodynamics of Quantum Phase Transitions of a Dirac Oscillator in a Homogenous Magnetic Field</title>
+      <link>http://dimitri-mar.github.io/publication/frassino-2017-tfu/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>http://dimitri-mar.github.io/publication/frassino-2017-tfu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthetic Generation of Local Minima and Saddle Points for Neural Networks</title>
+      <link>http://dimitri-mar.github.io/publication/malago-2017-synthetic/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://dimitri-mar.github.io/publication/malago-2017-synthetic/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Spin-Coupling Diagrams and Incidence Geometry: A Note on Combinatorial and Quantum-Computational Aspects</title>
-      <link>http://dimitri-mar.github.io/publication/quantcompasp/</link>
+      <link>http://dimitri-mar.github.io/publication/arruda-2016/</link>
       <pubDate>Mon, 04 Jul 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://dimitri-mar.github.io/publication/quantcompasp/</guid>
-      <description>Bibtex:
-@InBook{Arruda2016, Title = {Spin-Coupling Diagrams and Incidence Geometry: A Note on Combinatorial and Quantum-Computational Aspects}, Author = {Arruda, Manuela S. and Santos, Robenilson F. and Marinelli, Dimitri and Aquilanti, Vincenzo}, Editor = {Gervasi, Osvaldo and Murgante, Beniamino and Misra, Sanjay and Rocha, C. Ana Maria A. and Torre, M. Carmelo and Taniar, David and Apduhan, O. Bernady and Stankova, Elena and Wang, Shangguang}, Pages = {431--442}, Publisher = {Springer International Publishing}, Year = {2016}, Address = {Cham}, Booktitle = {Computational Science and Its Applications -- ICCSA 2016: 16th International Conference, Beijing, China, July 4-7, 2016, Proceedings, Part I}, Doi = {10.</description>
+      <guid>http://dimitri-mar.github.io/publication/arruda-2016/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>A Practical Look at Regge Calculus</title>
-      <link>http://dimitri-mar.github.io/publication/practicalregge/</link>
+      <link>http://dimitri-mar.github.io/publication/marinelli-2016-practical/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://dimitri-mar.github.io/publication/practicalregge/</guid>
-      <description>Bibtex:
-@InCollection{marinelli2016practical, Title = {{A Practical Look at Regge Calculus}}, Author = {Marinelli, Dimitri and Immirzi, Giorgio}, Booktitle = {1st Karl Schwarzschild Meeting on Gravitational Physics}, Publisher = {Springer International Publishing}, Year = {2013}, Pages = {381--386}, Series = {Springer Proceeding in Physics}, Addendum = {Cited in the \href{http://mathworld.wolfram.com/ReggeCalculus.html}{MathWorld entry on - &amp;quot;Regge Calculus&amp;quot; }}, Doi = {10.1007/978-3-319-20046-0_46}, Journal = {Springer Proceeding in Physics}, Timestamp = {2015.11.13} }  </description>
+      <guid>http://dimitri-mar.github.io/publication/marinelli-2016-practical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Screen representation of spin networks: 2D recurrence, eigenvalue equation for 6j symbols, geometric interpretation and Hamiltonian dynamics</title>
+      <link>http://dimitri-mar.github.io/publication/2014-ar-xiv-1404-4555-a/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>http://dimitri-mar.github.io/publication/2014-ar-xiv-1404-4555-a/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Single and Collective Dynamics of Discretized Geometries</title>
-      <link>http://dimitri-mar.github.io/publication/phdsum/</link>
+      <link>http://dimitri-mar.github.io/publication/marinelli-2014-single/</link>
       <pubDate>Wed, 26 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://dimitri-mar.github.io/publication/phdsum/</guid>
-      <description>Bibtex:
-@Article{marinelli2014single, Title = {Single and Collective Dynamics of Discretized Geometries}, Author = {Marinelli, Dimitri}, Journal = {Scientifica Acta}, Year = {2014}, Number = {1}, Pages = {56-64}, Volume = {7}, }  </description>
+      <guid>http://dimitri-mar.github.io/publication/marinelli-2014-single/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Symmetric coupling of angular momenta, quadratic algebras and discrete polynomials</title>
-      <link>http://dimitri-mar.github.io/publication/symalgebra/</link>
-      <pubDate>Wed, 05 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://dimitri-mar.github.io/publication/symalgebra/</guid>
-      <description>Bibtex:
-@Article{Aquilanti:2014gka, Title = {{Symmetric coupling of angular momenta, quadratic algebras and discrete polynomials}}, Author = {Aquilanti, V. and Marinelli, D. and Marzuoli, A.}, Journal = {Journal of Physics: Conference Series}, Year = {2014}, Pages = {012001}, Volume = {482}, Archiveprefix = {arXiv}, Booktitle = {{Proceedings, Physics and Mathematics of Nonlinear Phenomena (PMNP 2013)}}, Doi = {10.1088/1742-6596/482/1/012001}, Eprint = {1401.3591}, Primaryclass = {quant-ph}, }  </description>
+      <link>http://dimitri-mar.github.io/publication/aquilanti-2014-gka/</link>
+      <pubDate>Mon, 03 Mar 2014 00:00:00 +0000</pubDate>
+      <guid>http://dimitri-mar.github.io/publication/aquilanti-2014-gka/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Symmetric angular momentum coupling, the quantum volume operator and the 7-spin network: A computational perspective</title>
-      <link>http://dimitri-mar.github.io/publication/symcoupling/</link>
+      <title>Symmetric angular momentum coupling, the quantum volume operator and the 7-spin network: a computational perspective</title>
+      <link>http://dimitri-mar.github.io/publication/marinelli-2014-jma/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://dimitri-mar.github.io/publication/symcoupling/</guid>
-      <description>Bibtex:
-@InCollection{Marinelli:2014jma, Title = {{Symmetric angular momentum coupling, the quantum volume operator and the 7-spin network: a computational perspective}}, Author = {Marinelli, Dimitri and Marzuoli, Annalisa and Aquilanti, Vincenzo and Anderson, Roger W. and Bitencourt, Ana Carla P. and Ragni, Mirco}, Booktitle = {Computational Science and Its Applications - ICCSA 2014}, Publisher = {Springer Berlin Heidelberg}, Year = {2014}, Pages = {508-521}, Series = {Lecture Notes in Computer Science}, Volume = {8579}, Archiveprefix = {arXiv}, Doi = {10.</description>
+      <guid>http://dimitri-mar.github.io/publication/marinelli-2014-jma/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Hamiltonian dynamics of a quantum of space: hidden symmetries and spectrum of the volume operator, and discrete orthogonal polynomials</title>
-      <link>http://dimitri-mar.github.io/publication/hamiltvolume/</link>
+      <link>http://dimitri-mar.github.io/publication/aquilanti-2013-qx/</link>
       <pubDate>Mon, 15 Apr 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://dimitri-mar.github.io/publication/hamiltvolume/</guid>
-      <description>Bibtex:
-@Article{Aquilanti:2013qx, Title = {{Hamiltonian dynamics of a quantum of space: hidden symmetries and spectrum of the volume operator, and discrete orthogonal polynomials}}, Author = {Aquilanti, Vincenzo and Marinelli, Dimitri and Marzuoli, Annalisa}, Journal = {Journal of Physics A: Mathematical and Theoretical}, Year = {2013}, Pages = {175303}, Volume = {46}, Archiveprefix = {arXiv}, Doi = {10.1088/1751-8113/46/17/175303}, Eprint = {1301.1949}, Primaryclass = {quant-ph}, }  </description>
-    </item>
-    
-    <item>
-      <title>The screen representation of spin networks: 2D recurrence, eigenvalue equation for 6j symbols, geometric interpretation and hamiltonian dynamics</title>
-      <link>http://dimitri-mar.github.io/publication/screenrep/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://dimitri-mar.github.io/publication/screenrep/</guid>
-      <description>Bibtex:
-@InCollection{2014arXiv1404.4555A, Title = {{The Screen representation of spin networks: 2D recurrence, eigenvalue equation for 6j symbols, geometric interpretation and Hamiltonian dynamics}}, Author = {{Anderson}, R.~W. and {Aquilanti}, V. and {Bitencourt}, A.~C.~P. and {Marinelli}, D. and {Ragni}, M.}, Booktitle = {Computational Science and Its Applications - ICCSA 2013}, Publisher = {Springer Berlin Heidelberg}, Year = {2014}, Editor = {Murgante, Beniamino and Misra, Sanjay and Carlini, Maurizio and Torre, CarmeloM. and Nguyen, Hong-Quang and Taniar, David and Apduhan, BernadyO.</description>
+      <guid>http://dimitri-mar.github.io/publication/aquilanti-2013-qx/</guid>
+      <description></description>
     </item>
     
   </channel>

@@ -1,253 +1,240 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-    
-    <url>
-    
-      <loc>http://dimitri-mar.github.io/publication/syntdatareg/</loc>
-      <lastmod>2017-08-10T03:59:58+03:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://dimitri-mar.github.io/</loc>
+    <lastmod>2020-01-30T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://dimitri-mar.github.io/publication/qpt/</loc>
-      <lastmod>2017-07-10T01:55:48+03:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://dimitri-mar.github.io/publication_types/3/</loc>
+    <lastmod>2020-01-30T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://dimitri-mar.github.io/project/networks/</loc>
-      <lastmod>2017-06-05T02:56:14+03:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://dimitri-mar.github.io/authors/</loc>
+    <lastmod>2020-01-30T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://dimitri-mar.github.io/project/special-functions/</loc>
-      <lastmod>2017-06-05T02:55:29+03:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://dimitri-mar.github.io/authors/dimitri-marinelli/</loc>
+    <lastmod>2020-01-30T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://dimitri-mar.github.io/talk/example-talk/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://dimitri-mar.github.io/authors/jochen-papenbrock/</loc>
+    <lastmod>2020-01-30T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://dimitri-mar.github.io/talk/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://dimitri-mar.github.io/authors/markus-jaeger/</loc>
+    <lastmod>2020-01-30T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://dimitri-mar.github.io/publication/quantcompasp/</loc>
-      <lastmod>2016-07-04T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://dimitri-mar.github.io/authors/peter-schwendner/</loc>
+    <lastmod>2020-01-30T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://dimitri-mar.github.io/project/example-external-project/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://dimitri-mar.github.io/publication_types/</loc>
+    <lastmod>2020-01-30T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://dimitri-mar.github.io/post/getting-started/</loc>
-      <lastmod>2016-04-20T12:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://dimitri-mar.github.io/publication/</loc>
+    <lastmod>2020-01-30T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://dimitri-mar.github.io/post/widgets/</loc>
-      <lastmod>2016-04-20T11:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://dimitri-mar.github.io/authors/stephan-krugel/</loc>
+    <lastmod>2020-01-30T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://dimitri-mar.github.io/post/managing-content/</loc>
-      <lastmod>2016-04-20T11:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://dimitri-mar.github.io/publication/munichre-2020/</loc>
+    <lastmod>2020-01-30T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://dimitri-mar.github.io/post/writing-markdown-latex/</loc>
-      <lastmod>2016-04-20T10:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://dimitri-mar.github.io/publication/bussmann-2019-explainable/</loc>
+    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://dimitri-mar.github.io/publication/practicalregge/</loc>
-      <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://dimitri-mar.github.io/authors/niklas-bussmann/</loc>
+    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://dimitri-mar.github.io/publication/phdsum/</loc>
-      <lastmod>2014-03-26T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://dimitri-mar.github.io/authors/paolo-giudici/</loc>
+    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://dimitri-mar.github.io/post/migrate-from-jekyll/</loc>
-      <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://dimitri-mar.github.io/publication_types/2/</loc>
+    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://dimitri-mar.github.io/publication/symalgebra/</loc>
-      <lastmod>2014-03-05T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://dimitri-mar.github.io/authors/hector-j-hortua/</loc>
+    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://dimitri-mar.github.io/publication/symcoupling/</loc>
-      <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://dimitri-mar.github.io/authors/luigi-malago/</loc>
+    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://dimitri-mar.github.io/publication/hamiltvolume/</loc>
-      <lastmod>2013-04-15T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://dimitri-mar.github.io/publication/hortua-2019-parameters/</loc>
+    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://dimitri-mar.github.io/publication/screenrep/</loc>
-      <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://dimitri-mar.github.io/authors/riccardo-volpi/</loc>
+    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://dimitri-mar.github.io/</loc>
-      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>http://dimitri-mar.github.io/authors/antonia-m.-frassino/</loc>
+    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://dimitri-mar.github.io/tags/academic/</loc>
-      <lastmod>2016-04-20T12:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>http://dimitri-mar.github.io/authors/orlando-panella/</loc>
+    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://dimitri-mar.github.io/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>http://dimitri-mar.github.io/authors/pinaki-roy/</loc>
+    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://dimitri-mar.github.io/tags/demo/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>http://dimitri-mar.github.io/publication/frassino-2017-tfu/</loc>
+    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://dimitri-mar.github.io/tags/hugo/</loc>
-      <lastmod>2016-04-20T12:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>http://dimitri-mar.github.io/publication_types/1/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://dimitri-mar.github.io/tags/jekyll/</loc>
-      <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>http://dimitri-mar.github.io/publication/malago-2017-synthetic/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://dimitri-mar.github.io/post/</loc>
-      <lastmod>2016-04-20T12:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>http://dimitri-mar.github.io/publication_types/6/</loc>
+    <lastmod>2016-07-04T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://dimitri-mar.github.io/project/</loc>
-      <lastmod>2017-06-05T02:56:14+03:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>http://dimitri-mar.github.io/authors/manuela-s.-arruda/</loc>
+    <lastmod>2016-07-04T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://dimitri-mar.github.io/publication_types/</loc>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>http://dimitri-mar.github.io/authors/robenilson-f.-santos/</loc>
+    <lastmod>2016-07-04T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://dimitri-mar.github.io/publication/</loc>
-      <lastmod>2017-08-10T03:59:58+03:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>http://dimitri-mar.github.io/publication/arruda-2016/</loc>
+    <lastmod>2016-07-04T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://dimitri-mar.github.io/tags/</loc>
-      <lastmod>2016-04-20T12:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>http://dimitri-mar.github.io/authors/vincenzo-aquilanti/</loc>
+    <lastmod>2016-07-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dimitri-mar.github.io/publication/marinelli-2016-practical/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dimitri-mar.github.io/authors/giorgio-immirzi/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dimitri-mar.github.io/authors/ana-carla-peixoto-bitencourt/</loc>
+    <lastmod>2014-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dimitri-mar.github.io/authors/mirco-ragni/</loc>
+    <lastmod>2014-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dimitri-mar.github.io/authors/roger-w-anderson/</loc>
+    <lastmod>2014-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dimitri-mar.github.io/publication/2014-ar-xiv-1404-4555-a/</loc>
+    <lastmod>2014-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dimitri-mar.github.io/publication/marinelli-2014-single/</loc>
+    <lastmod>2014-03-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dimitri-mar.github.io/authors/annalisa-marzuoli/</loc>
+    <lastmod>2014-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dimitri-mar.github.io/publication/aquilanti-2014-gka/</loc>
+    <lastmod>2014-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dimitri-mar.github.io/authors/ana-carla-p.-bitencourt/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dimitri-mar.github.io/authors/roger-w.-anderson/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dimitri-mar.github.io/publication/marinelli-2014-jma/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dimitri-mar.github.io/publication/aquilanti-2013-qx/</loc>
+    <lastmod>2013-04-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dimitri-mar.github.io/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>http://dimitri-mar.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://dimitri-mar.github.io/post/</loc>
+  </url>
+  
+  <url>
+    <loc>http://dimitri-mar.github.io/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>http://dimitri-mar.github.io/tags/</loc>
+  </url>
   
 </urlset>

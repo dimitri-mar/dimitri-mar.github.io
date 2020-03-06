@@ -1,52 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on </title>
+    <title>Tags | </title>
     <link>http://dimitri-mar.github.io/tags/</link>
-    <description>Recent content in Tags on </description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018 Dimitri Marinelli</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 12:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://dimitri-mar.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Academic</title>
-      <link>http://dimitri-mar.github.io/tags/academic/</link>
-      <pubDate>Wed, 20 Apr 2016 12:00:00 +0000</pubDate>
-      
-      <guid>http://dimitri-mar.github.io/tags/academic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Demo</title>
-      <link>http://dimitri-mar.github.io/tags/demo/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://dimitri-mar.github.io/tags/demo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hugo</title>
-      <link>http://dimitri-mar.github.io/tags/hugo/</link>
-      <pubDate>Wed, 20 Apr 2016 12:00:00 +0000</pubDate>
-      
-      <guid>http://dimitri-mar.github.io/tags/hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jekyll</title>
-      <link>http://dimitri-mar.github.io/tags/jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://dimitri-mar.github.io/tags/jekyll/</guid>
-      <description></description>
-    </item>
+      <atom:link href="http://dimitri-mar.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Dimitri Marinelli</copyright>
+    <image>
+      <url>http://dimitri-mar.github.io/images/icon_hua6a78cf4343681db94a23854cb413817_43047_512x512_fill_lanczos_center_2.png</url>
+      <title>Tags</title>
+      <link>http://dimitri-mar.github.io/tags/</link>
+    </image>
     
   </channel>
 </rss>

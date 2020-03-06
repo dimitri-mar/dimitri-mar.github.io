@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Luigi Malagò | </title>
+    <link>http://dimitri-mar.github.io/authors/luigi-malago/</link>
+      <atom:link href="http://dimitri-mar.github.io/authors/luigi-malago/index.xml" rel="self" type="application/rss+xml" />
+    <description>Luigi Malagò</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Dimitri Marinelli</copyright><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://dimitri-mar.github.io/images/icon_hua6a78cf4343681db94a23854cb413817_43047_512x512_fill_lanczos_center_2.png</url>
+      <title>Luigi Malagò</title>
+      <link>http://dimitri-mar.github.io/authors/luigi-malago/</link>
+    </image>
+    
+    <item>
+      <title>Parameters Estimation for the Cosmic Microwave Background with Bayesian Neural Networks</title>
+      <link>http://dimitri-mar.github.io/publication/hortua-2019-parameters/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>http://dimitri-mar.github.io/publication/hortua-2019-parameters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthetic Generation of Local Minima and Saddle Points for Neural Networks</title>
+      <link>http://dimitri-mar.github.io/publication/malago-2017-synthetic/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://dimitri-mar.github.io/publication/malago-2017-synthetic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on </title>
+    <title>Categories | </title>
     <link>http://dimitri-mar.github.io/categories/</link>
-    <description>Recent content in Categories on </description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018 Dimitri Marinelli</copyright>
-    
-	<atom:link href="http://dimitri-mar.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="http://dimitri-mar.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Categories</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Dimitri Marinelli</copyright>
+    <image>
+      <url>http://dimitri-mar.github.io/images/icon_hua6a78cf4343681db94a23854cb413817_43047_512x512_fill_lanczos_center_2.png</url>
+      <title>Categories</title>
+      <link>http://dimitri-mar.github.io/categories/</link>
+    </image>
     
   </channel>
 </rss>

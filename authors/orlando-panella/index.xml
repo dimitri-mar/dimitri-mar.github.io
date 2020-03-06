@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Orlando Panella | </title>
+    <link>http://dimitri-mar.github.io/authors/orlando-panella/</link>
+      <atom:link href="http://dimitri-mar.github.io/authors/orlando-panella/index.xml" rel="self" type="application/rss+xml" />
+    <description>Orlando Panella</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Dimitri Marinelli</copyright><lastBuildDate>Sat, 01 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://dimitri-mar.github.io/images/icon_hua6a78cf4343681db94a23854cb413817_43047_512x512_fill_lanczos_center_2.png</url>
+      <title>Orlando Panella</title>
+      <link>http://dimitri-mar.github.io/authors/orlando-panella/</link>
+    </image>
+    
+    <item>
+      <title>Thermodynamics of Quantum Phase Transitions of a Dirac Oscillator in a Homogenous Magnetic Field</title>
+      <link>http://dimitri-mar.github.io/publication/frassino-2017-tfu/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>http://dimitri-mar.github.io/publication/frassino-2017-tfu/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
